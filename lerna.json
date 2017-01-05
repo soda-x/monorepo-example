@@ -3,5 +3,13 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "changelog": {
+    "repo": "pigcan/monorepo-example",
+    "labels": {
+      "tag: bugfix": "Bug fix",
+      "tag: enhancement": "Enhancement"
+    },
+    "cacheDir": ".changelog"
+  }
 }
