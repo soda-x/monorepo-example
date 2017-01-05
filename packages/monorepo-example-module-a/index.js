@@ -1,2 +1,2 @@
 const core = require('monorepo-example-module-core');
-console.log('module-a');
+console.log('enhanced module-a');
